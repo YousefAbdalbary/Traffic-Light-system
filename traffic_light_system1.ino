@@ -1,7 +1,6 @@
 int green=13;
 int yellow=11;
 int red=9;
-int x ;
 
 int on = 1000;
 int off= 1000;
